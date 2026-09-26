@@ -1,16 +1,26 @@
-## Hi there 👋
+# Аналитика данных и автоматизация
 
-<!--
-**IsNorseng/IsNorseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Работаю с отчётностью, SQL-анализом и повторяющимися операционными задачами. В коммерческих кейсах соединяю данные, проверку качества и понятную для бизнеса форму результата.
 
-Here are some ideas to get you started:
+## Рабочие и коммерческие проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Покрытие CRM-трафика гарантиями](https://github.com/IsNorseng/pokrytie-crm-trafika-garantiyami) — разовый анализ для «Абсолюта»: доля лидов и аппрувов в дни действия гарантий, с отдельными срезами по GEO и офферам. Публичная версия обезличена и реконструирована по постановке задачи; исходные запросы и данные не публикуются.
+- [SQL-запросы](https://github.com/IsNorseng/My-SQL-queries) — коммерческие ad hoc-запросы для «Абсолюта». В репозитории оставлены только безопасные примеры и пояснения к логике.
+- [Автоматизация отчётности на VBA](https://github.com/IsNorseng/VBA-report-automation) — рабочий проект для АО «Системы Управления»: автоматизация повторяющихся операций при обновлении ежедневной строительной отчётности. Сбор исходников и визуализации оставались ручными.
+
+## Практическая разработка
+
+- [Telegram-бот](https://github.com/IsNorseng/Telegram-Bot) — разработал и подключил бота к собственному каналу.
+
+## Тестовое задание
+
+- [Принятие решений в бизнесе](https://github.com/IsNorseng/Project-Decision-making-in-business) — тестовое задание для «Абсолюта»: приоритизация гипотез и анализ A/B-теста. Это не коммерческий проект.
+
+## Учебные аналитические проекты
+
+- [Анализ данных](https://github.com/IsNorseng/Data_Analysis) — несколько задач по рынку видеоигр, тарифам и недвижимости.
+- [Анализ экономики приложения](https://github.com/IsNorseng/App_loss_analysis) — когорты, LTV, CAC, удержание и окупаемость привлечения.
+- [Исследование активности пользователей Stack Overflow](https://github.com/IsNorseng/User_activity_research) — SQL-задачи с CTE и оконными функциями.
+- [Анализ надёжности заёмщиков](https://github.com/IsNorseng/Investigation-of-the-reliability-of-borrowers) — учебная работа по предобработке данных и сравнению групп.
+
+Подробности и ограничения каждого кейса указаны в его README.
