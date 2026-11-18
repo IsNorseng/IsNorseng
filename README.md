@@ -27,7 +27,7 @@
 
 ## Тестовые задания:
 
-- [Продажи и товарные потери FMCG](https://github.com/IsNorseng/Data_Analysis/tree/main/test_tasks/x5-retail) - тестовое задание для X5 Retail Group. Расчёт маржинальности и потерь, ABC-анализ, Excel с Power Query и два Jupyter Notebook на Pandas и Dask.
+- [Продажи и товарные потери FMCG](https://github.com/IsNorseng/Data_Analysis/tree/main/test_tasks/x5-retail) - тестовое задание для X5 Retail Group. Готовый Excel-отчёт и два Jupyter Notebook с сохранёнными таблицами, графиками и выводами. Основные результаты видны на странице кейса.
 - [Принятие решений в бизнесе](https://github.com/IsNorseng/Project-Decision-making-in-business) - тестовое задание, приоритизация гипотез и анализ A/B-теста. 
 
 ## Учебные аналитические проекты:
