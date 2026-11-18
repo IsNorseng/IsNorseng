@@ -23,6 +23,7 @@
 
 ## Практическая разработка:
 
+- [Telegram-бот-визитка](https://github.com/IsNorseng/Telegram-bot-Business-Card) - прототип на Python и pyTelegramBotAPI: кнопочное меню и обработчики текстовых сообщений.
 - [Telegram-бот](https://github.com/IsNorseng/Telegram-Bot) - разработал и подключил бота к собственному каналу.
 
 ## Тестовые задания:
