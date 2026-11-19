@@ -33,13 +33,18 @@
 
 ## Учебные проекты
 
-- [Рынок видеоигр](https://github.com/IsNorseng/Data_Analysis/blob/main/Games_market.md) - сравнил продажи в трёх регионах и выбрал платформы для рекламной кампании 2017 года.
-- [Воронка мобильного приложения](https://github.com/IsNorseng/Data_Analysis/tree/main/study/mobile-app) - нашёл шаг с самой большой потерей покупателей и проверил эффект нового шрифта в A/A/B-тесте.
-- [Экономика Procrastinate Pro+](https://github.com/IsNorseng/App_loss_analysis) - разобрал, почему выручка от привлечённых пользователей не покрывала затраты на рекламу за 14 дней.
-- [A/B-тест интернет-магазина](https://github.com/IsNorseng/Project-Decision-making-in-business) - расставил гипотезы по приоритету и проверил, как один дорогой заказ повлиял на результат эксперимента.
-- [Где в Москве открыть кофейню?](https://github.com/IsNorseng/Data_Analysis/tree/main/study/moscow-food) - сравнил предложения и цены в девяти округах, собрал карту и подготовил презентацию для инвесторов.
+Во время обучения в Яндекс Практикуме я исследовал продажи, поведение покупателей и экономику привлечения. Все пять ноутбуков собраны в [одном каталоге](https://github.com/IsNorseng/Data_Analysis/tree/main/yandex-practicum).
+
+| Проект | Задача |
+| --- | --- |
+| [Рынок видеоигр](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/01.%20%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%20%D0%B8%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B.ipynb) | Сравнил продажи в Северной Америке, Европе и Японии и выбрал платформы для рекламной кампании 2017 года. |
+| [Воронка покупок в приложении](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/02.%20%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb) | Нашёл переход, на котором теряется больше всего покупателей, и проверил, повлиял ли новый шрифт на оплату. |
+| [Окупаемость рекламы Procrastinate Pro+](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/03.%20%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%9E%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20Procrastinate%20Pro%2B.ipynb) | Разобрал, почему доход от новых пользователей за первые 14 дней не покрывал затраты на их привлечение. |
+| [Гипотезы роста и A/B-тест магазина](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/04.%20%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B%20%D1%80%D0%BE%D1%81%D1%82%D0%B0%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5.ipynb) | Расставил девять идей по приоритету и проверил, как изменились частота заказов и средний чек в эксперименте. |
+| [Где открыть кофейню в Москве](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/05.%20%D0%93%D0%B5%D0%BE%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%93%D0%B4%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8E%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.ipynb) | Сравнил девять округов по конкуренции и ценам. Выбрал округ, где стоило проверить идею доступной кофейни летом 2022 года. |
+
+### Другие учебные работы
+
 - [Тарифы и недвижимость](https://github.com/IsNorseng/Data_Analysis) - сравнил тарифы мобильного оператора и изучил объявления о продаже квартир.
 - [Исследование активности пользователей Stack Overflow](https://github.com/IsNorseng/User_activity_research) - SQL-задачи с CTE и оконными функциями.
 - [Анализ надёжности заёмщиков](https://github.com/IsNorseng/Investigation-of-the-reliability-of-borrowers) - учебная работа по предобработке данных и сравнению групп.
-
-Подробности и ограничения каждого кейса указаны в его README.
