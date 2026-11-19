@@ -30,12 +30,15 @@
 
 - [Анализ продаж в Excel](https://github.com/IsNorseng/Data_Analysis/tree/main/test_tasks/economist-analyst) - тестовое задание экономиста-аналитика. Продажи по 8 менеджерам и 27 брендам: расчёт выручки и премий, сводные таблицы и диаграммы.
 - [Продажи и товарные потери FMCG](https://github.com/IsNorseng/Data_Analysis/tree/main/test_tasks/x5-retail) - тестовое задание для X5 Retail Group. Готовый Excel-отчёт и Jupyter Notebook с сохранёнными таблицами, графиками и выводами. Основные результаты видны на странице кейса.
-- [Принятие решений в бизнесе](https://github.com/IsNorseng/Project-Decision-making-in-business) - тестовое задание, приоритизация гипотез и анализ A/B-теста. 
 
-## Учебные аналитические проекты:
+## Учебные проекты
 
-- [Анализ данных](https://github.com/IsNorseng/Data_Analysis) - несколько задач по рынку видеоигр, тарифам и недвижимости.
-- [Анализ экономики приложения](https://github.com/IsNorseng/App_loss_analysis) - когорты, LTV, CAC, удержание и окупаемость привлечения.
+- [Рынок видеоигр](https://github.com/IsNorseng/Data_Analysis/blob/main/Games_market.md) — сравнил продажи в трёх регионах и выбрал платформы для рекламной кампании 2017 года.
+- [Воронка мобильного приложения](https://github.com/IsNorseng/Data_Analysis/tree/main/study/mobile-app) — нашёл шаг с самой большой потерей покупателей и проверил эффект нового шрифта в A/A/B-тесте.
+- [Экономика Procrastinate Pro+](https://github.com/IsNorseng/App_loss_analysis) — разобрал, почему выручка от привлечённых пользователей не покрывала затраты на рекламу за 14 дней.
+- [A/B-тест интернет-магазина](https://github.com/IsNorseng/Project-Decision-making-in-business) — расставил гипотезы по приоритету и проверил, как один дорогой заказ повлиял на результат эксперимента.
+- [Где в Москве открыть кофейню?](https://github.com/IsNorseng/Data_Analysis/tree/main/study/moscow-food) — сравнил предложения и цены в девяти округах, собрал карту и подготовил презентацию для инвесторов.
+- [Тарифы и недвижимость](https://github.com/IsNorseng/Data_Analysis) — сравнил тарифы мобильного оператора и изучил объявления о продаже квартир.
 - [Исследование активности пользователей Stack Overflow](https://github.com/IsNorseng/User_activity_research) - SQL-задачи с CTE и оконными функциями.
 - [Анализ надёжности заёмщиков](https://github.com/IsNorseng/Investigation-of-the-reliability-of-borrowers) - учебная работа по предобработке данных и сравнению групп.
 
