@@ -4,7 +4,7 @@
 
 - [Telegram · @Puerulus](https://t.me/Puerulus)
 - [Портфолио в Google Sheets](https://clck.ru/3WDfRx) - примеры отчётности, аналитических таблиц и работы с маркетинговыми данными.
-- [Учебные проекты Яндекс Практикума](https://github.com/IsNorseng/Data_Analysis/tree/main/yandex-practicum) — семь исследований в Jupyter с графиками и выводами.
+- [Учебные проекты Яндекс Практикума](https://github.com/IsNorseng/Data_Analysis/tree/main/yandex-practicum) — восемь исследований в Jupyter с графиками и выводами.
 
 ## Рабочие и коммерческие проекты:
 
@@ -46,8 +46,9 @@
 | [Где открыть кофейню в Москве](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/05.%20%D0%93%D0%B5%D0%BE%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%93%D0%B4%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8E%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.ipynb) | Начал бы с Северного округа. Летом 2022 года медианная цена капучино там составляла 159 ₽ по 76 кофейням с известной ценой. |
 | [Что слушают в Москве и Петербурге](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/06.%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%BE%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A7%D1%82%D0%BE%20%D1%81%D0%BB%D1%83%D1%88%D0%B0%D1%8E%D1%82%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5%20%D0%B8%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5.ipynb) | В среду в Москве слушали меньше, чем в понедельник и пятницу, а в Петербурге среда была самым активным из трёх дней. В обоих городах лидировал поп. |
 | [Надёжность заёмщиков](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/07.%20%D0%91%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb) | В 21 331 анкете доля задолженности составила 8,12%. У заёмщиков с детьми она была на 1,70 п. п. выше, чем у заёмщиков без детей. |
+| [Цены на квартиры в Петербурге и области](https://github.com/IsNorseng/Data_Analysis/blob/main/yandex-practicum/08.%20%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/%D0%A6%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%B2%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5%20%D0%B8%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8.ipynb) | В объявлениях Петербурга средняя цена квартиры в 1 км от центра составляла 21,21 млн ₽, в 10 км — 6,51 млн ₽. |
 
 ### Другие учебные работы
 
-- [Тарифы и недвижимость](https://github.com/IsNorseng/Data_Analysis) - сравнил тарифы мобильного оператора и изучил объявления о продаже квартир.
+- [Тарифы мобильного оператора](https://github.com/IsNorseng/Data_Analysis/blob/main/Tariff_analysis_professional.ipynb) — сравнил потребление услуг и выручку по тарифам Smart и Ultra.
 - [Исследование активности пользователей Stack Overflow](https://github.com/IsNorseng/User_activity_research) - SQL-задачи с CTE и оконными функциями.
